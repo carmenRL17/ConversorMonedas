@@ -2,7 +2,6 @@
 
 ![conversor de divisas](https://github.com/carmenRL17/ConversorMonedas/blob/main/src/img/conversor.png?raw=true)
 
-![Maven Central](https://img.shields.io/maven-central/v/com.dropbox.core/dropbox-core-sdk)
 <p align="left">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=EN%20DESARROLLO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
